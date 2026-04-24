@@ -1,2 +1,21 @@
 # game-app-template
-Nada demais, só o que der para fazer para matar o tempo. Mas o intuito é criar um app, inicialmente tipo uma ficha de personagem de rpg
+Aplicativo para gerir rpgs de mesa. O que está sendo implementado no momento:
+
+ - Usuários
+ - Personagens
+ - Items e Equipamentos
+ - Salas
+
+---
+
+Sistemas de Rpgs utilizados como base para criação do aplicativo:
+
+ - Melodia Perdida
+ - Tales from the Loop
+ - Wilderfeast
+
+---
+
+## Tecnologias
+
+banco de dados: SqLite
