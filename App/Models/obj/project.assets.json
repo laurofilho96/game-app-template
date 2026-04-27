@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\t.lauro.filho\\source\\repos\\App\\Models\\Models.csproj",
-      "projectName": "Models",
-      "projectPath": "D:\\Users\\t.lauro.filho\\source\\repos\\App\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\Users\\t.lauro.filho\\source\\repos\\App\\Models\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "D:\\Users\\t.lauro.filho\\source\\repos\\App\\Models\\Domain.csproj",
       "packagesPath": "D:\\Users\\t.lauro.filho\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\t.lauro.filho\\source\\repos\\App\\Models\\obj\\",
       "projectStyle": "PackageReference",
