@@ -10,4 +10,5 @@ public class CampaignConfigures
     public int MaxLevel { get; set; }
     public int LevelUpSystem { get; set; }
     public List<int>? ItemTypeRestrictions { get; set; }
+    public List<int> LocationsIds { get; set; }
 }
