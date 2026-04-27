@@ -19,3 +19,4 @@ Sistemas de Rpgs utilizados como base para criação do aplicativo:
 ## Tecnologias
 
 banco de dados: SqLite
+Comunicação: SignalR
