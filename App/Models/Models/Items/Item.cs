@@ -8,4 +8,5 @@ public class Item
     public required string Description { get; set; }
     public Effect Effect { get; set; }
     public int EffectPoints { get; set; }
+    public int Rarity { get; set; }
 }
