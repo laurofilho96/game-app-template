@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RpgHelper.Api": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
